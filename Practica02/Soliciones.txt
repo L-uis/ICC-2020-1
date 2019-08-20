@@ -1,0 +1,13 @@
+Linea (n): (Explicacion).
+Linea (9): La decraración de variable esta mal escritan, debe estar en minusculas.
+linea(9): El valor que se le dio a la variable no pertenese a esta, cambie el 0 por true
+Linea (10): Se le asigno a una variable un valor fuera de su rango. Se cambio el valor por 127.
+Linea (11): Se le asignio a una variable un valor fuera de su rango. se cambio el valor por -32767
+Linea (14): La variable Discriminante no existe en el programa, asi que se sustituye con discriminante, que si esta en el programa.
+Linea (14): La variable esta mal declarada, ya que esta solo manega enteron y lo que usa son decimales. Cambie long por double
+Linea (17): El tipo de dato esta mal escrito, deveria estar con letra minuscula.
+Linea (18):No hay una variable ch, ademas que la variable ch1 no se usa, asi que ch la escribi como ch1
+Linea (18): La variable ch2 no esta bien definida, usa comillas dobles, en vez de una sola.
+
+solucione el error de ejecucion cambiando a=3 por a=17 ya que con el tres se producia una indefinicion.
+
