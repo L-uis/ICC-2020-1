@@ -1,0 +1,8 @@
+
+
+
+Explicacón del archivo PrePost.java
+El Programa imprime dos veces 17 por que en la linea 9 --x significa que primero le va a restar uno y despues lo va a imprimir, y x-- primero lo imrime y luego le resta uno.
+
+Explicación del archivo Operadores.java
+Los resltados son diferentes, ya que en la primera operación se dividen dos numeros enteros, y por esto, java da el resultado solo en entero y en el segundo, divide un real entre un entero, asi que el resulrado lo da como un número real.
