@@ -75,4 +75,15 @@ public class Triangulo{
 				
 	}
 
+	public Punto getVerticeA(){
+		return a;
+	}
+
+	public Punto getVerticeB(){
+		return b;
+	}
+
+	public Punto getVerticeC(){
+		return c;
+	}
 }
